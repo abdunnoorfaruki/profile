@@ -12,13 +12,13 @@
 
 - 💬 Ask me about **Web Development**
 
-### Connect with me:
+## Connect with me:
 
 [facebook]: https://fb.com/andunnoor.farukibiswas
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andunnoor.farukibiswas" height="30" width="60" />][facebook]
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -50,5 +50,5 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Webdevnoor01&show_icons=true&locale=en&layout=compact" alt="devolopernoor01" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Webdevnoor01&show_icons=true&locale=en" alt="devolopernoor01" />
