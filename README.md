@@ -51,4 +51,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Webdevnoor01&show_icons=true&locale=en&layout=compact" alt="devolopernoor01" /></p>
 <br/><br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Webdevnoor01&show_icons=true&locale=en" alt="devolopernoor01" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Webdevnoor01&show_icons=true&locale=en" alt="devolopernoor01" />
