@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdun Noor Faruki Biswas</h1>
-<h3 align="center">💻I am M.E.R.N Developer</h3>
+<h3 align="center">💻I am a M.E.R.N stack Web  Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devolopernoor01&label=Profile%20views&color=0e75b6&style=flat" alt="devolopernoor01" /> </p>
 
@@ -45,7 +45,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
  
-<img align="left" alt="Visual Studio Code" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="Visual Studio Code" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </h2>
 
