@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devolopernoor01&label=Profile%20views&color=0e75b6&style=flat" alt="devolopernoor01" /> </p>
 
 
-- 🔭 I’m currently working on <a href="https://testjsskills.netlify.app/" target="_blank">React Quiz App</a>
+- 🔭 I’m currently working on <a href="https://googlelitee.netlify.app/" target="_blank">Google clone project</a>
 
 - 🌱 I’m currently learning **Next.js**
 
