@@ -50,4 +50,5 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Webdevnoor01&show_icons=true&locale=en&layout=compact" alt="devolopernoor01" /></p>
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Webdevnoor01&show_icons=true&locale=en" alt="devolopernoor01" /></p>
