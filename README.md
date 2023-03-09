@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devolopernoor01&label=Profile%20views&color=0e75b6&style=flat" alt="devolopernoor01" /> </p>
 
 
-- 🔭 I’m currently working on Library Management System(Backend)
-
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on choose-yt-playlis
 
 - 👯 I’m looking to collaborate on **Github**
 
