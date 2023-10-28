@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevnoor01" alt="webdevnoor01" /></a> </p>
 
-- 🔭 I’m currently working on [Choose-YT-Play](https://github.com/Webdevnoor01/Choose-YT-Playlist)
+- 🔭 I’m currently working on [e-shop](https://github.com/Webdevnoor01/e-shop) and [wedemy](https://github.com/Webdevnoor01/wedemy)
 
 - 🌱 I’m currently learning **Next.js**
 
