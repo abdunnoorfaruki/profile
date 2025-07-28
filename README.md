@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdunnoorfaruki" alt="abdunnoorfaruki" /></a> </p>
 
-- 🔭 I’m currently working on [e-shop](https://github.com/abdunnoorfaruki/e-shop) and [wedemy](https://github.com/abdunnoorfaruki/wedemy)
-
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://webdevnoor01.showwcase.com/](https://webdevnoor01.showwcase.com/)
+- 👨‍💻 All of my projects are available at [https://abdunnoorfaruki.com/](https://abdunnoorfaruki.com/)
 
 - 💬 Ask me about **JavaScript, React, Front-End Development**
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devnoor03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devnoor03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdunnoorfaruki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdunnoorfaruki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
