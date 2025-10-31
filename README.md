@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdun Noor Faruki Biswas</h1>
-<h3 align="center">Front-End developer with experience creating web application</h3>
+<h3 align="center">Full-Stack Next.js developer with experience creating web application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdunnoorfaruki&label=Profile%20views&color=0e75b6&style=flat" alt="abdunnoorfaruki" /> </p>
 
